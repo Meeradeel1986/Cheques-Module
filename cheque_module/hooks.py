@@ -1,8 +1,8 @@
 app_name = "cheque_module"
 app_title = "Cheque Module"
-app_publisher = "Zewail"
+app_publisher = "DrCodeX"
 app_description = "A custom App to Handle Cheque Transaction Through ERPNext"
-app_email = "unclee919@gmail.com"
+app_email = "hello@drcodex.com"
 app_license = "MIT"
 
 # Document Events
